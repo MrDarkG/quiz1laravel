@@ -48,7 +48,7 @@
   	<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
   	<script type="text/javascript">
   		let id=1;
-      var grades=10;
+      var grades=0;
   		function sendans(id) {
   			$.ajax({
            type:'post',
